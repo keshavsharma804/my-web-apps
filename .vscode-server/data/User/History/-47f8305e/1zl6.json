@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.editorAssociations": {
+        "*.pdf": "default"
+    },
+    "remote.SSH.remotePlatform": {
+        "ec2-65-2-161-236.ap-south-1.compute.amazonaws.com": "linux",
+        "ec2-13-235-78-166.ap-south-1.compute.amazonaws.com": "linux"
+    }
+}
