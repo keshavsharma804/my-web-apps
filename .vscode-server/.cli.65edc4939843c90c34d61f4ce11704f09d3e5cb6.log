@@ -1,5 +1,9 @@
-Listening on 127.0.0.1:33359
-looking for token c3297a33-3466-4f1f-9645-034900558906, got Some("c3297a33-3466-4f1f-9645-034900558906")
-[2024-11-02 09:16:07] info Disposed of connection to running server.
-[2024-11-02 09:16:07] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/pid.txt for a running server...
-[2024-11-02 09:16:07] info Found running server (pid=26553)
+Listening on 127.0.0.1:33061
+[2024-11-02 10:05:21] info Disposed of connection to running server.
+looking for token acb11d29-b36c-4381-bf1f-f7adce843a06, got Some("acb11d29-b36c-4381-bf1f-f7adce843a06")
+[2024-11-02 10:05:21] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/pid.txt for a running server...
+[2024-11-02 10:05:21] info Found running server (pid=26553)
+[2024-11-02 10:05:21] warn Visual Studio Code Server is running but its logfile is missing. Don't delete the Visual Studio Code Server manually, run the command 'code prune'.
+[2024-11-02 10:05:21] info Downloading Visual Studio Code server -> /tmp/.tmppyMZZU/vscode-server-linux-x64.tar.gz
+[2024-11-02 10:05:25] info Starting server...
+[2024-11-02 10:05:25] info Server started
